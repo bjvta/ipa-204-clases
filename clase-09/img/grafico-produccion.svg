@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 800" width="400" height="800" font-family="Figtree, Avenir Next, Helvetica, Arial, sans-serif">
+<rect width="400" height="800" fill="#ffffff"/>
+<text x="28" y="58" font-size="31" font-weight="800" fill="#1e3d2f">Producción</text>
+<text x="28" y="96" font-size="21" font-weight="600" fill="#5b6f62">kilos por día · datos de ejemplo</text>
+<line x1="78" x2="382" y1="610.0" y2="610.0" stroke="#dfe7d4" stroke-width="2"/>
+<text x="68" y="617.0" font-size="19" text-anchor="end" fill="#5b6f62">0</text>
+<line x1="78" x2="382" y1="439.6" y2="439.6" stroke="#dfe7d4" stroke-width="2"/>
+<text x="68" y="446.6" font-size="19" text-anchor="end" fill="#5b6f62">1 000</text>
+<line x1="78" x2="382" y1="269.3" y2="269.3" stroke="#dfe7d4" stroke-width="2"/>
+<text x="68" y="276.3" font-size="19" text-anchor="end" fill="#5b6f62">2 000</text>
+<rect x="87.0" y="201.1" width="42.8" height="408.9" rx="6" fill="#3f7a55"/>
+<text x="108.4" y="191.1" font-size="18" font-weight="800" text-anchor="middle" fill="#1e3d2f">2 400</text>
+<text x="108.4" y="644" font-size="22" font-weight="700" text-anchor="middle" fill="#1e3d2f">Lun</text>
+<rect x="147.8" y="192.6" width="42.8" height="417.4" rx="6" fill="#3f7a55"/>
+<text x="169.2" y="182.6" font-size="18" font-weight="800" text-anchor="middle" fill="#1e3d2f">2 450</text>
+<text x="169.2" y="644" font-size="22" font-weight="700" text-anchor="middle" fill="#1e3d2f">Mar</text>
+<rect x="208.6" y="204.5" width="42.8" height="405.5" rx="6" fill="#3f7a55"/>
+<text x="230.0" y="194.5" font-size="18" font-weight="800" text-anchor="middle" fill="#1e3d2f">2 380</text>
+<text x="230.0" y="644" font-size="22" font-weight="700" text-anchor="middle" fill="#1e3d2f">Mié</text>
+<rect x="269.4" y="328.9" width="42.8" height="281.1" rx="6" fill="#3f7a55"/>
+<text x="290.8" y="318.9" font-size="18" font-weight="800" text-anchor="middle" fill="#1e3d2f">1 650</text>
+<text x="290.8" y="644" font-size="22" font-weight="700" text-anchor="middle" fill="#1e3d2f">Jue</text>
+<rect x="330.2" y="197.7" width="42.8" height="412.3" rx="6" fill="#3f7a55"/>
+<text x="351.6" y="187.7" font-size="18" font-weight="800" text-anchor="middle" fill="#1e3d2f">2 420</text>
+<text x="351.6" y="644" font-size="22" font-weight="700" text-anchor="middle" fill="#1e3d2f">Vie</text>
+<line x1="78" x2="382" y1="610" y2="610" stroke="#1e3d2f" stroke-width="3"/>
+</svg>

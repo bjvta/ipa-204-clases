@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 398 800" font-family="Helvetica, Arial, sans-serif">
+<rect width="398" height="800" fill="#ffffff"/>
+<text x="199.0" y="70" font-size="34" font-weight="bold" fill="#1e3d2f" text-anchor="middle">Humedad del grano</text>
+<text x="199.0" y="112" font-size="24" fill="#5b6f62" text-anchor="middle">grado de 0 a 1</text>
+<line x1="60" y1="486" x2="368" y2="486" stroke="#dfe7d4" stroke-width="2"/>
+<text x="50" y="493" font-size="19" fill="#5b6f62" text-anchor="end">0,2</text>
+<line x1="60" y1="412" x2="368" y2="412" stroke="#dfe7d4" stroke-width="2"/>
+<text x="50" y="419" font-size="19" fill="#5b6f62" text-anchor="end">0,4</text>
+<line x1="60" y1="338" x2="368" y2="338" stroke="#dfe7d4" stroke-width="2"/>
+<text x="50" y="345" font-size="19" fill="#5b6f62" text-anchor="end">0,6</text>
+<line x1="60" y1="264" x2="368" y2="264" stroke="#dfe7d4" stroke-width="2"/>
+<text x="50" y="271" font-size="19" fill="#5b6f62" text-anchor="end">0,8</text>
+<line x1="60" y1="190" x2="368" y2="190" stroke="#dfe7d4" stroke-width="2"/>
+<text x="50" y="197" font-size="19" fill="#5b6f62" text-anchor="end">1</text>
+<line x1="60" y1="560" x2="368" y2="560" stroke="#5b6f62" stroke-width="3"/>
+<text x="50" y="567" font-size="19" fill="#5b6f62" text-anchor="end">0</text>
+<line x1="60" y1="560" x2="60" y2="570" stroke="#5b6f62" stroke-width="3"/>
+<text x="60" y="598" font-size="22" fill="#5b6f62" text-anchor="middle">5</text>
+<line x1="137" y1="560" x2="137" y2="570" stroke="#5b6f62" stroke-width="3"/>
+<text x="137" y="598" font-size="22" fill="#5b6f62" text-anchor="middle">10</text>
+<line x1="214" y1="560" x2="214" y2="570" stroke="#5b6f62" stroke-width="3"/>
+<text x="214" y="598" font-size="22" fill="#5b6f62" text-anchor="middle">15</text>
+<line x1="291" y1="560" x2="291" y2="570" stroke="#5b6f62" stroke-width="3"/>
+<text x="291" y="598" font-size="22" fill="#5b6f62" text-anchor="middle">20</text>
+<line x1="368" y1="560" x2="368" y2="570" stroke="#5b6f62" stroke-width="3"/>
+<text x="368" y="598" font-size="22" fill="#5b6f62" text-anchor="middle">25</text>
+<text x="368" y="628" font-size="20" fill="#5b6f62" text-anchor="end">humedad (%)</text>
+<polyline points="60,190 137,190 291,560 368,560" fill="none" stroke="#3f7a55" stroke-width="6" stroke-linejoin="round"/>
+<polyline points="60,560 137,560 291,190 368,190" fill="none" stroke="#c8553d" stroke-width="6" stroke-linejoin="round" stroke-dasharray="1 0"/>
+<text x="66" y="174" font-size="26" font-weight="bold" fill="#3f7a55">Seca</text>
+<text x="362" y="174" font-size="26" font-weight="bold" fill="#c8553d" text-anchor="end">Húmeda</text>
+<line x1="229" y1="560" x2="229" y2="190" stroke="#f0973a" stroke-width="5" stroke-dasharray="12 8"/>
+
+<rect x="99" y="642" width="200" height="40" rx="20" fill="#f0973a"/><text x="199" y="670" font-size="22" font-weight="bold" fill="#1e3d2f" text-anchor="middle">lectura: 16 %</text>
+</svg>
